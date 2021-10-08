@@ -1,2 +1,2 @@
-# automacao-web
-Automação web e busca de informações com python utilizando selenium
+# automation web
+automation web and search of information with python using selenium
